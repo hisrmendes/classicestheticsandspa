@@ -36,13 +36,20 @@ export default function App(){
         href="https://www.google.com/maps/search/?api=1&query=Carrer+de+Sant+Marc+1,+local+6,+Gràcia,+08012+Barcelona"
         target="_blank"
         rel="noreferrer"
-        style={{ color: #f9f6ec, textDecoration: "underline", cursor: "pointer" }}
+        style={{
+          color: "#554037",       // cor do texto normal
+          textDecoration: "none", // sem sublinhado normal
+          cursor: "pointer"
+        }}
+        onMouseEnter={e => e.target.style.textDecoration = "underline"}
+        onMouseLeave={e => e.target.style.textDecoration = "none"}
       >
         Carrer de Sant Marc, 1, local 6, Gràcia, 08012 Barcelona
       </a>
     </div>
   </div>
 </footer>
+
       <a href="https://wa.me/34657881509" target="_blank" rel="noreferrer" style={{position:'fixed',right:20,bottom:20}}>
         <div style={{background:'#554037',color:'#f9f6ec',padding:12,borderRadius:999}}>WhatsApp</div>
       </a>
