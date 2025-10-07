@@ -37,7 +37,7 @@ export default function App(){
         target="_blank"
         rel="noreferrer"
         style={{
-          color: "#554037",       // cor do texto normal
+           color: "#f9f6ec",       // cor bege claro
           textDecoration: "none", // sem sublinhado normal
           cursor: "pointer"
         }}
