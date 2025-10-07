@@ -30,13 +30,13 @@ export default function App(){
       </main>
       <footer>
   <div className="container">
-    <strong>CLASSIC Esthetics & Spa</strong>
+    <strong>Classic Esthetics & Spa</strong>
     <div>
       <a
         href="https://www.google.com/maps/search/?api=1&query=Carrer+de+Sant+Marc+1,+local+6,+Gràcia,+08012+Barcelona"
         target="_blank"
         rel="noreferrer"
-        style={{ color: "#554037", textDecoration: "underline", cursor: "pointer" }}
+        style={{ color: #f9f6ec, textDecoration: "underline", cursor: "pointer" }}
       >
         Carrer de Sant Marc, 1, local 6, Gràcia, 08012 Barcelona
       </a>
