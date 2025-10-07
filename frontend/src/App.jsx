@@ -31,7 +31,8 @@ export default function App(){
       <footer>
         <div className="container">
           <strong>CLASSIC Esthetics & Spa</strong>
-          <div> src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2992.7555315292666!2d2.1532963!3d41.4011152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4a3f5e8f7597d%3A0xbd3e5e5426c506f2!2sClassic%20Esthetics%20%26%20Spa!5e0!3m2!1spt-BR!2ses!4v1759796694084!5m2!1spt-BR!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"</div>
+          <div>Carrer de Sant Marc, 1, local 6, Gràcia, 08012 Barcelona
+          </div>
       </footer>
       <a href="https://wa.me/34657881509" target="_blank" rel="noreferrer" style={{position:'fixed',right:20,bottom:20}}>
         <div style={{background:'#554037',color:'#f9f6ec',padding:12,borderRadius:999}}>WhatsApp</div>
