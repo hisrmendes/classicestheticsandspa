@@ -29,11 +29,28 @@ export default function App(){
         </section>
       </main>
       <footer>
-        <div className="container">
-          <strong>CLASSIC Esthetics & Spa</strong>
-          <div>Carrer de Sant Marc, 1, local 6, Gràcia, 08012 Barcelona</div>
-          </div>
-      </footer>
+  <div className="container">
+    <strong>CLASSIC Esthetics & Spa</strong>
+    <div>Carrer de Sant Marc, 1, local 6, Gràcia, 08012 Barcelona</div>
+    <button
+      onClick={() => window.open(
+        "https://www.google.com/maps/search/?api=1&query=Carrer+de+Sant+Marc+1,+local+6,+Gràcia,+08012+Barcelona",
+        "_blank"
+      )}
+      style={{
+        marginTop: 8,
+        padding: "8px 12px",
+        backgroundColor: "#554037",
+        color: "#f9f6ec",
+        border: "none",
+        borderRadius: 6,
+        cursor: "pointer"
+      }}
+    >
+      Ver no Maps
+    </button>
+  </div>
+</footer>
       <a href="https://wa.me/34657881509" target="_blank" rel="noreferrer" style={{position:'fixed',right:20,bottom:20}}>
         <div style={{background:'#554037',color:'#f9f6ec',padding:12,borderRadius:999}}>WhatsApp</div>
       </a>
