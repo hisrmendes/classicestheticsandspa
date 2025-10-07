@@ -16,7 +16,7 @@ const storage = multer.diskStorage({destination:(req,file,cb)=>cb(null,UPLOAD_DI
 const upload = multer({storage})
 
 // MongoDB connection (local)
-const MONGO_URI = process.env.MONGO_URI || 'mongodb://localhost:27017/classicestheticsspa'
+const uri = "mongodb+srv://hisrmendes_db_user:<db_password>@cluster0.riz8qvj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 mongoose.connect(MONGO_URI).then(()=>console.log('Mongo connected')).catch(e=>console.error(e))
 
 // simple health
