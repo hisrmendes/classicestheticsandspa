@@ -31,7 +31,7 @@ export default function App(){
       <footer>
         <div className="container">
           <strong>CLASSIC Esthetics & Spa</strong>
-          <div>Carrer de Sant Marc, 1, local 6, Gràcia, 08012 Barcelona
+          <div>Carrer de Sant Marc, 1, local 6, Gràcia, 08012 Barcelona</div>
           </div>
       </footer>
       <a href="https://wa.me/34657881509" target="_blank" rel="noreferrer" style={{position:'fixed',right:20,bottom:20}}>
