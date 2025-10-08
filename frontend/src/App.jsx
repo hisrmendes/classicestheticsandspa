@@ -1,7 +1,7 @@
 import React from 'react'
 import { useTranslation } from 'react-i18next'
-import logo from './assets/logotipo-principal.png'
-import heroImg from './assets/marca-dagua-10.png'
+const logo = '/assets/logotipo-principal.png'
+const heroImg = '/assets/marca-dagua.png'
 const calendly = 'https://calendly.com/classicestheticsspa'
 export default function App(){
   const { t } = useTranslation()
