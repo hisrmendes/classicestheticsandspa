@@ -1,7 +1,74 @@
 {
   "title": "CLASSIC Esthetics & Spa",
   "welcome": "A space in Barcelona dedicated to care and beauty.",
-  "reserve": "Book Appointment",
-  "services": "Services",
-  "contact": "Contact"
+  "reserve": "Book Now",
+  "contact": "Contact",
+  "services": {
+    "title": "Services",
+    "facial": {
+      "category": " Facial Treatments",
+      "classicCleaning": {
+        "title": "Classic Facial Cleaning – 1 hour",
+        "description": "The skin on your face is always exposed… removes dead cells, hydrates, and brightens. Includes makeup removal, toner, exfoliation, steam, extraction, serum, mask, and facial massage.",
+        "button": "Book Facial Cleaning"
+      },
+      "classicHydration": {
+        "title": "Classic Facial Hydration – 1 hour",
+        "description": "Intensive treatment to restore hydration, freshness, and vitality to the skin. Ideal for dry or dull skin. Steps: cleansing, exfoliation, mask, facial massage, and final serum.",
+        "button": "Book Facial Hydration"
+      },
+      "hydraGloss": {
+        "title": "Hydra Gloss Lips – 45 min",
+        "description": "Hydrates, regenerates, and enhances the natural volume of the lips. Gloss effect with visible results from the first session.",
+        "button": "Book Hydra Gloss"
+      },
+      "liftingEyelashes": {
+        "title": "Women - Lash Lift & Tint – 50 min",
+        "description": "The lift will lengthen and curl your lashes, and the tint will add color, as if you were always wearing mascara. The perfect solution to highlight your eyes.",
+        "button": "Book Lash Lift & Tint"
+      }
+    },
+    "massage": {
+      "category": " Massages",
+      "relaxing": {
+        "title": "Classic Relaxing Massage – 1 hour",
+        "description": "Balance body and mind. Ideal for relieving tension, stress, and fatigue. Full body treatment with aromatic oils.",
+        "button": "Book Relaxing Massage"
+      },
+      "facialLifting": {
+        "title": "Classic Facial Lifting Massage – 50 min",
+        "description": "Firming massage that stimulates collagen, improves circulation, and helps prevent fine lines.",
+        "button": "Book Facial Lifting Massage"
+      },
+      "lymphaticDrainage": {
+        "title": "Lymphatic Drainage – 1 hour",
+        "description": "Stimulates the lymphatic system, reduces fluid retention, and improves circulation. Ideal for tired legs or after long trips.",
+        "button": "Book Lymphatic Drainage"
+      },
+      "footSpa": {
+        "title": "Foot Spa – 40 min",
+        "description": "Ideal for those who spend long hours standing or want a moment of relaxation and care.",
+        "button": "Book Foot Spa"
+      }
+    },
+    "body": {
+      "category": " Body Treatments",
+      "magicSculpt": {
+        "title": "Magic Sculpt Detox – 1h 15min",
+        "description": "Comprehensive treatment that activates circulation, reduces measurements, and eliminates toxins. Visible results from the first session.",
+        "button": "Book Magic Sculpt Detox"
+      },
+      "classicSPA": {
+        "title": "Classic SPA – 1h 30min",
+        "description": "An exclusive ritual that combines deep relaxation, body exfoliation, and facial and body hydration. This treatment renews body and mind through aromatherapy, relaxing massage, and facial lifting care, leaving the skin soft, the face glowing, and a lasting sense of well-being. Perfect as a gift or complete self-care experience.",
+        "button": "Book Classic SPA"
+      },
+      "peelingHydration": {
+        "title": "Peeling + Body Hydration – 1h",
+        "description": "Deep cleansing that renews the skin, removes impurities, and leaves a soft and radiant texture.",
+        "button": "Book Peeling + Body Hydration"
+      }
+    },
+    "note": "⚠️ All services are exclusively for women. Bookings that do not meet this requirement will be canceled."
+  }
 }
