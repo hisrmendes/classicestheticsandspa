@@ -250,7 +250,7 @@ export default function App() {
             transition: 'transform 0.2s ease'
           }}
         >
-          WhatsApp
+          Whats
         </div>
       </a>
     </div>
