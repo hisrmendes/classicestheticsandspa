@@ -2,6 +2,73 @@
   "title": "CLASSIC Esthetics & Spa",
   "welcome": "Un espacio en Barcelona dedicado al cuidado y la belleza.",
   "reserve": "Reservar Cita",
-  "services": "Servicios",
-  "contact": "Contacto"
+  "contact": "Contacto",
+  "services": {
+    "title": "Servicios",
+    "facial": {
+      "category": " Tratamientos Faciales",
+      "classicCleaning": {
+        "title": "Classic Limpieza Facial – 1 hora",
+        "description": "La piel del rostro está siempre expuesta... elimina células muertas, hidrata e ilumina. Incluye limpieza, tónico, exfoliación, vapor, extracción, sérum, mascarilla y masaje facial.",
+        "button": "Agendar Limpieza Facial"
+      },
+      "classicHydration": {
+        "title": "Classic Hidratación Facial – 1 hora",
+        "description": "Tratamiento intensivo para devolver hidratación, frescura y vitalidad a la piel. Ideal para pieles secas o apagadas. Etapas: limpieza, exfoliación, mascarilla, masaje facial y sérum final.",
+        "button": "Agendar Hidratación Facial"
+      },
+      "hydraGloss": {
+        "title": "Hydra Gloss Labios – 45 min",
+        "description": "Hidrata, regenera y realza el volumen natural de los labios. Con efecto gloss y resultado visible desde la primera sesión.",
+        "button": "Agendar Hydra Gloss"
+      },
+      "liftingEyelashes": {
+        "title": "Mujer - Lifting y tinte de pestañas – 50 min",
+        "description": "Con el lifting conseguirás alargar y elevar tus pestañas y con el tinte les darás un toque de color, como si llevaras la máscara de pestañas siempre puesta.",
+        "button": "Agendar Lifting y Tinte de Pestañas"
+      }
+    },
+    "massage": {
+      "category": " Masajes",
+      "relaxing": {
+        "title": "Classic Masaje Relajante – 1 hora",
+        "description": "Equilibrio cuerpo y mente. Ideal para liberar tensiones, estrés y cansancio. Tratamiento completo de cuerpo con aceites aromáticos.",
+        "button": "Agendar Masaje Relajante"
+      },
+      "facialLifting": {
+        "title": "Classic Masaje Facial Lifting – 50 min",
+        "description": "Masaje reafirmante que estimula el colágeno, mejora la circulación y ayuda a prevenir líneas de expresión.",
+        "button": "Agendar Masaje Facial Lifting"
+      },
+      "lymphaticDrainage": {
+        "title": "Drenaje Linfático – 1 hora",
+        "description": "Estimula el sistema linfático, reduce la retención de líquidos y mejora la circulación. Ideal para piernas cansadas y post viajes largos.",
+        "button": "Agendar Drenaje Linfático"
+      },
+      "footSpa": {
+        "title": "Spa Pies - Masaje de pies – 40 min",
+        "description": "Ideal para quienes pasan mucho tiempo de pie o buscan un momento de desconexión y cuidado.",
+        "button": "Agendar Spa Pies"
+      }
+    },
+    "body": {
+      "category": " Tratamientos Corporales",
+      "magicSculpt": {
+        "title": "Magic Sculpt Detox – 1h 15min",
+        "description": "Tratamiento integral que activa la circulación, reduce medidas y elimina toxinas. Resultados visibles desde la primera sesión.",
+        "button": "Agendar Magic Sculpt Detox"
+      },
+      "classicSPA": {
+  "title": "Classic SPA – 1h 30min",
+  "description": "Un ritual exclusivo que combina relajación profunda, exfoliación e hidratación corporal y facial. Este tratamiento renueva cuerpo y mente mediante aromaterapia, masaje relajante y cuidado lifting facial, dejando la piel suave, el rostro luminoso y una sensación de bienestar total. Ideal como regalo o experiencia de autocuidado integral.",
+  "button": "Agendar Classic SPA"
+},
+      "peelingHydration": {
+        "title": "Peeling + Hidratación Corporal – 1h",
+        "description": "Limpieza profunda que renueva la piel, elimina impurezas y deja una textura suave y radiante.",
+        "button": "Agendar Peeling + Hidratación Corporal"
+      }
+    },
+    "note": "⚠️ Todos los servicios están dirigidos exclusivamente a mujeres. Las reservas que no cumplan este requisito serán canceladas."
+  }
 }
