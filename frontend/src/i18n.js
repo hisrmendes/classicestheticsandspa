@@ -4,7 +4,7 @@ import { initReactI18next } from 'react-i18next'
 // importa os arquivos de tradução
 import es from './locales/es.json'
 import pt from './locales/pt.json'
-import en from './locales/en-us.json'
+import en from './locales/en.json'
 
 i18n
   .use(initReactI18next)
