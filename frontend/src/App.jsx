@@ -4,7 +4,6 @@ import { useTranslation } from 'react-i18next'
 
 import logo from "./assets/logotipo-principal.png";
 
-
 // 🔹 Imagens do slideshow
 import hero1 from './assets/hero/vela.flor.secas.png'
 import hero2 from './assets/hero/classic.limonade.png'
