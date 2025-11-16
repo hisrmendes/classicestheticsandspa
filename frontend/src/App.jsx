@@ -2,7 +2,8 @@ import React from 'react'
 import './i18n'
 import { useTranslation } from 'react-i18next'
 
-import logo from './assets/logotipo-principal.png'
+import logo from "./assets/logotipo-principal.png";
+
 
 // 🔹 Imagens do slideshow
 import hero1 from './assets/hero/vela.flor.secas.png'
