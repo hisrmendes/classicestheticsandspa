@@ -92,7 +92,7 @@ export default function App() {
           <h1 style={{ fontSize: 60, color: '#fff', lineHeight: 1.1 }}>
             Classic
             <br />
-            <span style={{ fontSize: 36 }}>Esthetics & Spa</span>
+            <span style={{ fontSize: 36 }}>Esthetics & </span>
           </h1>
           <p style={{ color: '#fff', maxWidth: 700, margin: '12px auto' }}>
             {t('welcome')}
